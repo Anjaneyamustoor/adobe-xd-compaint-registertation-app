@@ -1,1 +1,1 @@
-# adobe-xd-compaint-registertation-app
+# adobe-xd-compaint-registration-app
