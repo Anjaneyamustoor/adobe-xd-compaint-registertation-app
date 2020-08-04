@@ -1,1 +1,1 @@
-# adobe-xd-compaint-registration-app
+# adobe-xd-complaint-registration-app
